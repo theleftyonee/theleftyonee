@@ -7,9 +7,13 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=theleftyonee.theleftyonee)
 
-</p>
-<div size='20px'> Hi! My name is Saksham Verma. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
+<h1 align="center">Hi 👋, I'm Saksham Verma</h1>
+
+<h3 align="center">A learner, coder and an aspiring ethical hacker from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=theleftyonee&label=Profile%20views&color=0e75b6&style=flat" alt="theleftyonee" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theleftyonee" alt="theleftyonee" /></a> </p>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
@@ -21,7 +25,9 @@
 
 - 👯 I’m looking to collaborate on on articles and projects that involve Cybersecurity ans Ethical Hacking. 
 
-- 💬 Talk to me about C, C++, Python, Ethical Hacking, Cybersecurity 
+- 💬 Talk to me about C, C++, Python, Ethical Hacking, Cybersecurity
+ 
+- 📫 How to reach me **dripclade@gmail.com**
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/theleftyonee?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
