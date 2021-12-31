@@ -20,8 +20,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theleftyonee&" alt="theleftyonee" /></p>
 
-
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+ <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
+<h2> About Me </h2>
 
 - 🌱 I’m currently learning C and C++ 
 - 👯 I’m looking to collaborate on on articles and projects that involve Cybersecurity and Ethical Hacking.
