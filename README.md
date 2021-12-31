@@ -7,7 +7,8 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=theleftyonee.theleftyonee)
 
-<h1 align="center">Hi 👋, I'm Saksham Verma</h1>
+<h1 align="center">Hi �<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<p align='center'>, I'm Saksham Verma</h1>
 
 <h3 align="center">A learner, coder and an aspiring ethical hacker from India</h3>
 
