@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saksham Verma</h1>
-<h3 align="center">A learner,coder and an aspiring ethical hacker from India</h3>
+<h3 align="center">A learner, coder and an aspiring ethical hacker from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theleftyonee&label=Profile%20views&color=0e75b6&style=flat" alt="theleftyonee" /> </p>
 
