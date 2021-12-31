@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "628px" src="https://c4.wallpaperflare.com/wallpaper/168/815/785/computer-the-room-hacker-the-world-at-night-wallpaper-preview.jpg" alt="cover" />
+<img width="75%" height = "728px" src="https://c4.wallpaperflare.com/wallpaper/168/815/785/computer-the-room-hacker-the-world-at-night-wallpaper-preview.jpg" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
@@ -10,7 +10,7 @@
 <h1 align="center">I'm Saksham Verma <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'></h1>
 
-<h3 align="center">A learner, coder and an aspiring ethical hacker from India</h3>
+<h3 align="center">A learner, coder and an aspiring ethical hacker from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theleftyonee&label=Profile%20views&color=0e75b6&style=flat" alt="theleftyonee" /> </p>
 
