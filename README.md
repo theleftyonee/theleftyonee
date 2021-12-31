@@ -11,6 +11,7 @@
 <p align='center'></h1>
 
 <h3 align="center">A learner, coder and an aspiring ethical hacker from India.</h3>
+<p align="left"> <a href="https://twitter.com/theleftyonee" target="blank"><img src="https://img.shields.io/twitter/follow/theleftyonee?logo=twitter&style=for-the-badge" alt="theleftyonee" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theleftyonee&label=Profile%20views&color=0e75b6&style=flat" alt="theleftyonee" /> </p>
 
