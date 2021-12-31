@@ -16,8 +16,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theleftyonee" alt="theleftyonee" /></a> </p>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theleftyonee&show_icons=true&locale=en" alt="theleftyonee" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theleftyonee&" alt="theleftyonee" /></p>
@@ -27,7 +25,9 @@
 
 - 🌱 I’m currently learning C and C++ 
 
-- 👯 I’m looking to collaborate on on articles and projects that involve Cybersecurity ans Ethical Hacking. 
+- 👯 I’m looking to collaborate on on articles and projects that involve Cybersecurity ans Ethical Hacking.
+-  
+- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 💬 Talk to me about C, C++, Python, Ethical Hacking, Cybersecurity
  
