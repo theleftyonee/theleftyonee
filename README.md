@@ -1,4 +1,13 @@
 <h1 align="center">Hi 👋, I'm Saksham Verma</h1>
+![](https://wallpaperaccess.com/full/3166727.jpg)
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/theleftyonee)  
+
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=theleftyonee)  
+
 <h3 align="center">A learner, coder and an aspiring ethical hacker from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theleftyonee&label=Profile%20views&color=0e75b6&style=flat" alt="theleftyonee" /> </p>
