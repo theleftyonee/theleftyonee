@@ -1,6 +1,6 @@
 <!-- CYBER HEADER BANNER -->
 <p align="center">
-  <img src="https://i.ibb.co/vQ7pXFt/hacker-banner-dark.gif" width="100%" height="400px" alt="Cyber Banner"/>
+  <img src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczc0N256bHlxZDZvazl5NXdkcGNwbXk3OW12djhya2Q2ZnphMmRkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif]" width="100%" height="400px" alt="Cyber Banner"/>
 </p>
 
 <!-- ANIMATED INTRO -->
@@ -28,7 +28,10 @@ B.Tech CSE @ KIIT | Full Stack Developer | AI Builder | Tech Entrepreneur
 🪖 Security enthusiast with clean code obsession
 🌟 Leader @ Microsoft Learn, KORUS, NSS
 ```
-
+<!-- CINEMATIC SECTION DIVIDER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</p>
 ---
 
 ### 🦀 Tech Toolbox
@@ -37,7 +40,10 @@ B.Tech CSE @ KIIT | Full Stack Developer | AI Builder | Tech Entrepreneur
   <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,java,react,nodejs,vercel,docker,git,aws,linux,figma,vscode,firebase,postgresql,tensorflow,pytorch"/>
 </p>
 
----
+<!-- CINEMATIC SECTION DIVIDER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</p>
 
 ### 💡 Project Highlights
 
@@ -63,7 +69,10 @@ B.Tech CSE @ KIIT | Full Stack Developer | AI Builder | Tech Entrepreneur
   - ⬇️ https://github.com/theleftyonee/Discord-Bot-Using-Python
 </details>
 
----
+<!-- CINEMATIC SECTION DIVIDER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</p>
 
 ### 📊 GitHub Analytics
 <p align="center">
@@ -72,7 +81,10 @@ B.Tech CSE @ KIIT | Full Stack Developer | AI Builder | Tech Entrepreneur
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theleftyonee&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
----
+<!-- CINEMATIC SECTION DIVIDER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</p>
 
 ### 🏆 Leadership & Achievements
 - 🎓 Microsoft Learn Student Ambassador (2024–2025)
@@ -83,7 +95,10 @@ B.Tech CSE @ KIIT | Full Stack Developer | AI Builder | Tech Entrepreneur
   - IBM Cybersecurity Analyst
   - LBS: Business for Good
 
----
+<!-- CINEMATIC SECTION DIVIDER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</p>
 
 ### 📢 Reach Me Online
 <p align="center">
@@ -92,13 +107,26 @@ B.Tech CSE @ KIIT | Full Stack Developer | AI Builder | Tech Entrepreneur
   <a href="https://github.com/theleftyonee"><img src="https://img.icons8.com/ios-filled/50/github.png" width="30"/></a>
 </p>
 
----
+<!-- CINEMATIC SECTION DIVIDER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</p>
 
 ### 🤣 Dev Humor
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
 
----
+<!-- CINEMATIC SECTION DIVIDER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</p>
+
+<!-- CINEMATIC FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/black.png" width="100%"/>
+</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
