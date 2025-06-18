@@ -3,10 +3,15 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczc0N256bHlxZDZvazl5NXdkcGNwbXk3OW12djhya2Q2ZnphMmRkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="50%" height="400px" alt="Cyber Banner"/>
 </p>
 
-<!-- ANIMATED INTRO -->
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+I'm+Saksham+Verma+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Full+Stack+Dev+%7C+AI+Builder+%7C+Tech+Entrepreneur;Let's+build+something+amazing+!" alt="Typing SVG" />
 </h1>
+
+<!-- VISITOR COUNTER -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=theleftyonee&label=Profile+Visits&color=0e75b6&style=for-the-badge" alt="visitor badge"/>
+</p>
 
 <!-- SOCIAL BADGES -->
 <p align="center">
@@ -16,20 +21,39 @@
   <a href="https://unislay.com"><img src="https://img.shields.io/badge/Founder-UniSlay-FFCE00?style=for-the-badge"/></a>
 </p>
 
----
 
 ### 🔥 About Me
 
 ```yaml
 B.Tech CSE @ KIIT | Full Stack Developer | AI Builder | Tech Entrepreneur
 
-🚀 Building UniSlay – 500+ student sessions
-🧠 Deploying AI to solve real-world problems (health, education, productivity)
-🪖 Security enthusiast with clean code obsession
-🌟 Leader @ Microsoft Learn, KORUS, NSS
+🚀 Co-founder @ UniSlay
+Building India’s first peer-to-peer mentorship platform for high schoolers.
+500+ one-on-one student sessions delivered. Backed by a strong mission to make career guidance authentic and accessible.
+
+🧠 AI for Impact
+Exploring and deploying Artificial Intelligence to solve real-world problems in
+• Health – AI agents for medical support & awareness
+• Education – Personalized learning, adaptive tutoring
+• Productivity – Automating workflows with custom LLMs, bots, and agents
+
+🪖 Tech Stack + Engineering Focus
+• Full Stack: React.js, Node.js, Next.js, MongoDB, Firebase
+• AI/ML: Python, OpenAI API, Langchain, HuggingFace, TensorFlow
+• Obsessed with: Scalable architecture, clean code, security-first design, fast shipping
+
+🎯 On a Mission To:
+
+Build multiple AI-powered startups for good.
+
+Collaborate with like-minded ambitious minds
+
 ```
 
----
+<!-- CINEMATIC SECTION DIVIDER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</p>
 
 ### 🦀 Tech Toolbox
 
@@ -37,69 +61,71 @@ B.Tech CSE @ KIIT | Full Stack Developer | AI Builder | Tech Entrepreneur
   <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,java,react,nodejs,vercel,docker,git,aws,linux,figma,vscode,firebase,postgresql,tensorflow,pytorch"/>
 </p>
 
----
+### 🧠 Project Highlights
 
-### 💡 Project Highlights
-
-<details>
-  <summary><b>🧠 UniSlay – Peer College Guidance Platform</b></summary>
-  ✨ Matchmaking platform for high schoolers & verified mentors.
-  - Tech: React.js, Node.js, Firebase
-  - Features: Booking Engine, Chat, Feedback Loop
-  - ⬇️ https://unislay.com
+<details open>
+  <summary><b>✨ UniSlay — Peer College Guidance Platform</b></summary>
+  <ul>
+    <li>🔗 <strong>Website</strong>: <a href="https://unislay.com">unislay.com</a></li>
+    <li>💡 Built with React.js, Node.js, Firebase</li>
+    <li>📈 500+ sessions · Real-time chat · Booking engine</li>
+  </ul>
 </details>
 
 <details>
-  <summary><b>💓 Cardio Risk Predictor (ML 87%)</b></summary>
-  ⚕️ Health AI using Scikit-learn.
-  - Real-time risk score on patient inputs.
-  - ⬇️ https://github.com/theleftyonee/Cardio-Vascular-Disease-Detection
+  <summary><b>💓 Cardio Risk Predictor (87% Accuracy)</b></summary>
+  <ul>
+    <li>🧪 ML model using Scikit-learn · Real-time UI with Streamlit</li>
+    <li>🔗 <a href="https://github.com/theleftyonee/Cardio-Vascular-Disease-Detection">Code Repository</a></li>
+  </ul>
 </details>
 
 <details>
-  <summary><b>🤖 Discord AI Bot (OpenAI API)</b></summary>
-  💬 Enhances community with automated responses + moderation.
-  - Python + GPT-based summaries, Q&A.
-  - ⬇️ https://github.com/theleftyonee/Discord-Bot-Using-Python
+  <summary><b>🤖 Discord AI Bot Assistant</b></summary>
+  <ul>
+    <li>🧠 GPT-powered assistant with auto-moderation</li>
+    <li>🔗 <a href="https://github.com/theleftyonee/Discord-Bot-Using-Python">GitHub Repo</a></li>
+  </ul>
 </details>
 
----
-
-### 📊 GitHub Analytics
+<!-- PARALLAX DIVIDER -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theleftyonee&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=theleftyonee&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theleftyonee&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 </p>
 
----
+### 🎯 Interactive Stats
 
-### 🏆 Leadership & Achievements
-- 🎓 Microsoft Learn Student Ambassador (2024–2025)
-- 👥 KORUS KIIT – Assistant Coordinator
-- ❤️ NSS KIIT Volunteer – Educational outreach
-- 📓 Certified in:
-  - Oracle Generative AI
-  - IBM Cybersecurity Analyst
-  - LBS: Business for Good
-
----
-
-### 📢 Reach Me Online
 <p align="center">
-  <a href="https://twitter.com/theleftyonee"><img src="https://img.icons8.com/color/48/twitter--v1.png" width="30"/></a>
-  <a href="https://instagram.com/theleftyonee"><img src="https://img.icons8.com/fluency/48/instagram-new.png" width="30"/></a>
-  <a href="https://github.com/theleftyonee"><img src="https://img.icons8.com/ios-filled/50/github.png" width="30"/></a>
+  <a href="https://github.com/theleftyonee">
+    <img src="https://github-readme-stats.vercel.app/api?username=theleftyonee&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  </a>
+  <a href="https://github.com/theleftyonee">
+    <img src="https://streak-stats.demolab.com?user=theleftyonee&theme=tokyonight&hide_border=true" width="48%"/>
+  </a>
+  <a href="https://github.com/theleftyonee">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theleftyonee&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  </a>
 </p>
 
----
+<!-- GLOWING EFFECT HOVER -->
+<style>
+  summary {
+    cursor: pointer;
+    font-size: 1.2em;
+  }
+  summary:hover {
+    color: #0ff;
+    text-shadow: 0 0 10px #0ff;
+  }
+</style>
 
-### 🤣 Dev Humor
+<!-- ANIMATED SVG FOOTER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=2AFFDF&center=true&vCenter=true&width=900&lines=Thanks+for+scrolling!+Keep+building+something+epic+🚀;Follow+your+curiosity.+Hack+the+world.+💡" />
+</p>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
-
----
-
+<!-- CINEMATIC FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/black.png" width="100%"/>
 </p>
