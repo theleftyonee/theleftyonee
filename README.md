@@ -116,5 +116,4 @@ Collaborate with like-minded ambitious minds
 <!-- CINEMATIC FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/black.png" width="100%"/>
 </p>
