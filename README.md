@@ -1,11 +1,11 @@
 <!-- CYBER HEADER BANNER -->
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczc0N256bHlxZDZvazl5NXdkcGNwbXk3OW12djhya2Q2ZnphMmRkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="50%" height="400px" alt="Cyber Banner"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczc0N256bHlxZDZvazl5NXdkcGNwbXk3OW12djhya2Q2ZnphMmRkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="60%" height="400px" alt="Cyber Banner"/>
 </p>
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+I'm+Saksham+Verma+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Full+Stack+Dev+%7C+AI+Builder+%7C+Tech+Entrepreneur;Let's+build+something+amazing+!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+I'm+Saksham+Verma+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Full+Stack+Dev+%7C+AI+Builder+%7C+Tech+Entrepreneur;Let's+build+something+amazing!" alt="Typing SVG" />
 </h1>
 
 <!-- VISITOR COUNTER -->
