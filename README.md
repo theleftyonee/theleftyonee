@@ -1,6 +1,6 @@
 <!-- CYBER HEADER BANNER -->
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczc0N256bHlxZDZvazl5NXdkcGNwbXk3OW12djhya2Q2ZnphMmRkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="100%" height="400px" alt="Cyber Banner"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczc0N256bHlxZDZvazl5NXdkcGNwbXk3OW12djhya2Q2ZnphMmRkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="50%" height="400px" alt="Cyber Banner"/>
 </p>
 
 <!-- ANIMATED INTRO -->
