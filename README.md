@@ -107,17 +107,6 @@ Collaborate with like-minded ambitious minds
   </a>
 </p>
 
-<!-- GLOWING EFFECT HOVER -->
-<style>
-  summary {
-    cursor: pointer;
-    font-size: 1.2em;
-  }
-  summary:hover {
-    color: #0ff;
-    text-shadow: 0 0 10px #0ff;
-  }
-</style>
 
 <!-- ANIMATED SVG FOOTER -->
 <p align="center">
