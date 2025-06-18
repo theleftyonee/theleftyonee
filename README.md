@@ -31,8 +31,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 </p>
 
-### 🔥 About Me
-
 <!-- GitHub doesn't support embedded <style> in rendered markdown, replaced with inline classes and fallback emojis -->
 
 <div style="border: 2px solid #2affdf; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #0f0f0f, #1e1e1e); color: #ffffff; box-shadow: 0 0 20px #2affdf66; font-family: 'Fira Code', monospace; line-height: 1.6; max-width: 800px; margin: 0 auto;">
